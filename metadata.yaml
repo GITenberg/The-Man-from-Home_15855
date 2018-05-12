@@ -1,0 +1,47 @@
+_repo: The-Man-from-Home_15855
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: White, Luther S.
+    gutenberg_agent_id: '6346'
+    url: http://www.gutenberg.org/2009/agents/6346
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Tarkington, Booth
+    aliases:
+    - Tarkington, B. (Booth)
+    - Tarkington, Newton Booth
+    - Van Loot, Cornelius Obenchain
+    birthdate: 1869
+    deathdate: 1946
+    gutenberg_agent_id: '169'
+    url: http://www.gutenberg.org/2009/agents/169
+    wikipedia: http://en.wikipedia.org/wiki/Booth_Tarkington
+  - agent_name: Wilson, Harry Leon
+    birthdate: 1867
+    deathdate: 1939
+    gutenberg_agent_id: '1206'
+    url: http://www.gutenberg.org/2009/agents/1206
+    wikipedia: http://en.wikipedia.org/wiki/Harry_Leon_Wilson
+description: In this southern Italian comedy of errors, American siblings Horace and
+  Ethel Granger-Simpson attempt to have Ethel marry the Honorable Almeric St. Aubyn.
+  The siblings must deal with their guardian Daniel Voorhees Pike of Kokomo, Indiana
+  who refuses to liquidate the family fortune for the marriage. Written in Paris in
+  1906, this play ran in Chicago for a year and was a hit on Broadway in 1908.
+gutenberg_issued: '2005-05-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15855'
+  lccn: 08032634
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Drama'
+title: The Man from Home
+url: http://www.gutenberg.org/ebooks/15855
